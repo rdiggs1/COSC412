@@ -15,3 +15,5 @@ public class HelpActivity extends MainActivity
 		setContentView(R.layout.help);
 	}
 }
+
+// Test comment by Brian
